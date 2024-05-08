@@ -1,8 +1,8 @@
-import "../../../Test-Suwanan40/src/App.css";
+import "../App.css"
 import { useContext, useState } from "react";
 import { useNavigate } from "react-router-dom";
 // import Authenticate from "../Login/Auth"
-import { Auth } from "../Login/Auth";
+import { Auth } from "./Auth";
 
 // import axios from "axios"
 
